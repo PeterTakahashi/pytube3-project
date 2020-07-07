@@ -1,5 +1,6 @@
 ## environment
 pytube3: 9.6.4
+https://pypi.org/project/pytube3/
 
 ## install pytube3
 
